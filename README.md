@@ -1,1 +1,0 @@
-Personal project designed specifically for Github Pages
