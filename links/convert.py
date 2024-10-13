@@ -3,12 +3,12 @@ from pathlib import Path
 from typing import Literal
 
 
-def build_path(file_name: str) -> str:
-    path = Path().absolute().joinpath(file_name)
-    if path.exists():
-        return path
+def build_path(custom_route: str) -> str:
+    fp = Path(__file__).parents[1].joinpath(custom_route)
+    if fp.exists():
+        return fp
     else:
-        raise FileNotFoundError(path)
+        raise FileNotFoundError(fp)
 
 
 def file_manager(
@@ -120,7 +120,7 @@ def build_html(tags: list[str]) -> str:
 
 def main():
 
-    SRC_NAME: str = "links.md"
+    SRC_NAME: str = "links/links.md"
     SRC_PATH: str = build_path(SRC_NAME)
     OUT_NAME: str = "index.html"
     OUT_PATH: str = build_path(OUT_NAME)
