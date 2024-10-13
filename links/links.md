@@ -37,6 +37,7 @@
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
+- [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
 - [art by jodi arias](https://artbyjodiarias.com/)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
 - [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
