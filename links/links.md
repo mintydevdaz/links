@@ -34,6 +34,8 @@
 - [I promise this story about fonts is interesting](https://www.youtube.com/watch?v=WVfRxFwVHQc)
 - [i will fucking dropkick you if you use that spreadsheet](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
 ### medium
+- [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
+- [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
 - [demon core](https://en.wikipedia.org/wiki/Demon_core)
 - [epstein's black book](https://epsteinsblackbook.com/)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
