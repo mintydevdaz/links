@@ -30,9 +30,16 @@ def file_manager(
 
 def extract_text_and_href(
     string: str,
-    pattern: str = r"[\[\(](.*?)[\]\)]",
-) -> list[str]:
-    return re.findall(pattern, string)
+) -> tuple[str, str]:
+    # Grab inner text
+    right: int = string.rfind("]")
+    inner_html: str = string[3:right]
+
+    # Grab link
+    left: int = string.find("(") + 1
+    link: str = string[left:-2]
+
+    return inner_html, link
 
 
 def tag_generator(
