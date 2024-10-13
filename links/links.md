@@ -36,6 +36,7 @@
 - [epstein's black book](https://epsteinsblackbook.com/)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
+- [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
 - [art by jodi arias](https://artbyjodiarias.com/)
