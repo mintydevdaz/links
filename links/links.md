@@ -53,7 +53,7 @@
 - [dorde martinovic incident](https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Martinovi%C4%87_incident)
 - [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
 - [warren jeffs](https://en.wikipedia.org/wiki/Warren_Jeffs)
-- [armen meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
+- [armin meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
 - [shoko asahara](https://en.wikipedia.org/wiki/Shoko_Asahara)
 - [donner party](https://www.britannica.com/topic/Donner-party)
 - [nutty putty cave](https://en.wikipedia.org/wiki/Nutty_Putty_Cave)
