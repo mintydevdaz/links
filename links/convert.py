@@ -49,12 +49,19 @@ def tag_generator(
     head_level: int = 0,
 ) -> list[str]:
     match tag_type:
+
         case "heading":
-            return f"<h{head_level}>{text}</h{head_level}>"
+            return f"<h{head_level} class='mt-4'>{text}</h{head_level}>"
+
         case "list":
-            return (
-                f"<li><a href='{href}' target='_blank' rel='noreferrer'>{text}</a></li>"
-            )
+            anchor_cls: list[str] = [
+                "link-offset-2",
+                "link-offset-3-hover",
+                "link-underline",
+                "link-underline-opacity-0",
+                "link-underline-opacity-75-hover",
+            ]
+            return f"<li class='mb-1'><a class='{" ".join(anchor_cls)}' href='{href}' target='_blank' rel='noreferrer'>{text}</a></li>"
 
 
 def process_lines(data: list[str]):
@@ -99,12 +106,13 @@ def build_html(tags: list[str]) -> str:
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>😎 cool links</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     </head>
     <body>
+    <div class="container-sm mt-3 mb-5 text-start">
     {body_text}
+    </div>
     </body>
     </html>
     """
