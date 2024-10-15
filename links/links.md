@@ -11,6 +11,7 @@
 - [koro](https://en.wikipedia.org/wiki/Koro_(disease))
 - [google graveyard](https://killedbygoogle.com/)
 - [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
+- [kenneth reitz](https://kennethreitz.org/)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
 - [grace hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
