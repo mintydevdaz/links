@@ -17,6 +17,7 @@
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
 - [kids these days...](https://historyhustle.com/2500-years-of-people-complaining-about-the-younger-generation/)
 - [vigorish](https://en.wikipedia.org/wiki/Vigorish)
+- [octothorpe](https://dictionary.cambridge.org/dictionary/english/octothorpe)
 - [parker solar probe](https://parkersolarprobe.jhuapl.edu/)
 - [independence day](https://www.youtube.com/watch?v=phKNKP2c2Xw)
 - [stepan company](https://en.wikipedia.org/wiki/Stepan_Company)
