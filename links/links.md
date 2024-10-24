@@ -46,6 +46,7 @@
 - [lead-crime hypothesis](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
+- [hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
