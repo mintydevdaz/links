@@ -15,6 +15,7 @@
 - [funk guitar dojo](https://www.youtube.com/watch?v=kfoT3khgNEI)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
 - [grace hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
+- [three virtues](https://thethreevirtues.com/)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
 - [kids these days...](https://historyhustle.com/2500-years-of-people-complaining-about-the-younger-generation/)
 - [vigorish](https://en.wikipedia.org/wiki/Vigorish)
