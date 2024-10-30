@@ -33,6 +33,7 @@
 - [satanic panic](https://www.vox.com/culture/22358153/satanic-panic-ritual-abuse-history-conspiracy-theories-explained)
 - [church of satan vs satanic temple](https://thesatanictemple.com/pages/church-of-satan-vs-satanic-temple)
 - [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
+- [human petting zoo](https://links.net/)
 - [vatican + centurion global fund](https://www.catholicnewsagency.com/news/43150/the-vatican-centurion-global-financial-scandal-a-cna-explainer)
 - [why this movie has been playing for 24 years](https://www.youtube.com/watch?v=mC_PK6zW_Bs)
 - [a wheatfield in the heart of manhattan, 1982](https://rarehistoricalphotos.com/wheatfield-manhattan-1982/)
