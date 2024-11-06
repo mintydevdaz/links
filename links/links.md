@@ -12,6 +12,7 @@
 - [google graveyard](https://killedbygoogle.com/)
 - [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
 - [kenneth reitz](https://kennethreitz.org/)
+- [my hovercraft is full of eels](https://www.omniglot.com/language/phrases/hovercraft.htm)
 - [funk guitar dojo](https://www.youtube.com/watch?v=kfoT3khgNEI)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
 - [grace hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
