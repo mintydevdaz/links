@@ -48,6 +48,7 @@
 - [epstein's black book](https://epsteinsblackbook.com/)
 - [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 - [lead-crime hypothesis](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
+- [donohue–levitt hypothesis](https://en.wikipedia.org/wiki/Legalized_abortion_and_crime_effect)
 - [edward bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
