@@ -1,5 +1,6 @@
 ## links
 ### easy
+- [family history](https://family-history.pages.dev/)
 - [worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
 - [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
 - [pingala](https://en.wikipedia.org/wiki/Pingala)
