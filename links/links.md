@@ -57,6 +57,7 @@
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
+- [hustler's university](https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
 - [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
 - [brother andré's heart](https://www.flickr.com/photos/spinfly/4151836591)
