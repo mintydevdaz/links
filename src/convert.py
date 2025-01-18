@@ -119,7 +119,7 @@ def build_html(tags: list[str]) -> str:
 
 def main():
 
-    SRC_NAME: str = "links/links.md"
+    SRC_NAME: str = "src/links.md"
     SRC_PATH: str = build_path(SRC_NAME)
     OUT_NAME: str = "index.html"
     OUT_PATH: str = build_path(OUT_NAME)
