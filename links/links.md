@@ -4,6 +4,7 @@
 - [worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
 - [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
 - [pingala](https://en.wikipedia.org/wiki/Pingala)
+- [IMG_0001](https://walzr.com/IMG_0001)
 - [spartathlon](https://en.wikipedia.org/wiki/Spartathlon)
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
 - [tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
