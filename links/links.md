@@ -20,7 +20,7 @@
 - [three virtues](https://thethreevirtues.com/)
 - [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
-- [kids these days...](https://historyhustle.com/2500-years-of-people-complaining-about-the-younger-generation/)
+- [kids these days](https://historyhustle.com/2500-years-of-people-complaining-about-the-younger-generation/)
 - [vigorish](https://en.wikipedia.org/wiki/Vigorish)
 - [octothorpe](https://dictionary.cambridge.org/dictionary/english/octothorpe)
 - [parker solar probe](https://parkersolarprobe.jhuapl.edu/)
