@@ -1,14 +1,7 @@
-[tool.poetry]
+[project]
 name = "links"
 version = "0.1.0"
-description = ""
-authors = ["mintydevdaz <mintydevdaz@proton.me>"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.12.7"
+dependencies = []
