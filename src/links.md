@@ -25,7 +25,6 @@
 - [thomas austin](https://www.nma.gov.au/defining-moments/resources/rabbits-introduced)
 - [miracle of the sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)
 - [gobleki tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
-- [paul holes](https://en.wikipedia.org/wiki/Paul_Holes)
 - [satanic panic](https://www.vox.com/culture/22358153/satanic-panic-ritual-abuse-history-conspiracy-theories-explained)
 - [church of satan vs satanic temple](https://thesatanictemple.com/pages/church-of-satan-vs-satanic-temple)
 - [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
@@ -38,19 +37,12 @@
 
 ### medium
 
-- [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
-- [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
-- [epstein's black book](https://epsteinsblackbook.com/)
 - [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
-- [lead-crime hypothesis](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
-- [donohue–levitt hypothesis](https://en.wikipedia.org/wiki/Legalized_abortion_and_crime_effect)
 - [rebeccapurple](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 - [edward bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
-- [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
 - [hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
-- [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
 - [hustler's university](<https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/>)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
@@ -60,11 +52,26 @@
 
 ### hard
 
-- [félicien kabuga](https://en.wikipedia.org/wiki/F%C3%A9licien_Kabuga)
 - [byford dolphin diving bell accident](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident)
-- [twin flames universe](https://en.wikipedia.org/wiki/Twin_Flames_Universe)
 - [the enigma of amigara fault](https://www.youtube.com/watch?v=j3vQeYIzh80)
+- [nutty putty cave](https://en.wikipedia.org/wiki/Nutty_Putty_Cave)
+
+### crime
+
+- [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
+- [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
+- [epstein's black book](https://epsteinsblackbook.com/)
+- [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
+- [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
+- [the 48 hours leading up to an execution](https://www.webworm.co/p/marcellus)
+- [twin flames universe](https://en.wikipedia.org/wiki/Twin_Flames_Universe)
+- [félicien kabuga](https://en.wikipedia.org/wiki/F%C3%A9licien_Kabuga)
+- [robert pickton meat supply](https://www.theglobeandmail.com/news/national/alert-issued-about-meat-from-picktons-pig-farm/article1129163/)
+- [watts family murders](https://en.wikipedia.org/wiki/Watts_family_murders)
+- [lead-crime hypothesis](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
+- [donohue–levitt hypothesis](https://en.wikipedia.org/wiki/Legalized_abortion_and_crime_effect)
 - [art by jodi arias](https://artbyjodiarias.com/)
+- [paul holes](https://en.wikipedia.org/wiki/Paul_Holes)
 - [murder of travis alexander](https://en.wikipedia.org/wiki/Murder_of_Travis_Alexander)
 - [dorde martinovic incident](https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Martinovi%C4%87_incident)
 - [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
@@ -72,7 +79,3 @@
 - [armin meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
 - [shoko asahara](https://en.wikipedia.org/wiki/Shoko_Asahara)
 - [donner party](https://www.britannica.com/topic/Donner-party)
-- [nutty putty cave](https://en.wikipedia.org/wiki/Nutty_Putty_Cave)
-- [robert pickton meat supply](https://www.theglobeandmail.com/news/national/alert-issued-about-meat-from-picktons-pig-farm/article1129163/)
-- [watts family murders](https://en.wikipedia.org/wiki/Watts_family_murders)
-- [the 48 hours leading up to an execution](https://www.webworm.co/p/marcellus)
