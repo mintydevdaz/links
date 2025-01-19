@@ -69,7 +69,6 @@
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
 - [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
-- [moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline) -> [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
 - [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
 - [miracle of the sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)
 - [satanic panic](https://www.vox.com/culture/22358153/satanic-panic-ritual-abuse-history-conspiracy-theories-explained)
