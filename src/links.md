@@ -31,7 +31,6 @@
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
 - [hustler's university](<https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/>)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
-- [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
 - [brother andré's heart](https://www.flickr.com/photos/spinfly/4151836591)
 - [byford dolphin diving bell accident](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident)
 - [the enigma of amigara fault](https://www.youtube.com/watch?v=j3vQeYIzh80)
@@ -68,6 +67,7 @@
 - [armin meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
 - [donner party](https://www.britannica.com/topic/Donner-party)
 
+
 ### cults
 
 - [warren jeffs](https://en.wikipedia.org/wiki/Warren_Jeffs)
@@ -79,3 +79,4 @@
 - [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
 - [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
 - [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
+- [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
