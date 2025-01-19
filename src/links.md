@@ -1,33 +1,25 @@
 ## links
+
 ### easy
-- [family history](https://family-history.pages.dev/)
+
 - [worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
 - [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
 - [pingala](https://en.wikipedia.org/wiki/Pingala)
 - [IMG_0001](https://walzr.com/IMG_0001)
-- [spartathlon](https://en.wikipedia.org/wiki/Spartathlon)
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
 - [tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
 - [tamil bell](https://en.wikipedia.org/wiki/Tamil_bell)
 - [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)
-- [koro](https://en.wikipedia.org/wiki/Koro_(disease))
+- [koro](<https://en.wikipedia.org/wiki/Koro_(disease)>)
 - [google graveyard](https://killedbygoogle.com/)
 - [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
-- [kenneth reitz](https://kennethreitz.org/)
-- [my hovercraft is full of eels](https://www.omniglot.com/language/phrases/hovercraft.htm)
-- [funk guitar dojo](https://www.youtube.com/watch?v=kfoT3khgNEI)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
-- [grace hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
 - [three virtues](https://thethreevirtues.com/)
 - [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
-- [kids these days](https://historyhustle.com/2500-years-of-people-complaining-about-the-younger-generation/)
 - [vigorish](https://en.wikipedia.org/wiki/Vigorish)
-- [octothorpe](https://dictionary.cambridge.org/dictionary/english/octothorpe)
-- [parker solar probe](https://parkersolarprobe.jhuapl.edu/)
 - [independence day](https://www.youtube.com/watch?v=phKNKP2c2Xw)
 - [stepan company](https://en.wikipedia.org/wiki/Stepan_Company)
-- [adolf hitler](https://www.youtube.com/watch?v=jmjrfs24JtE)
 - [kekulé's dream](https://en.m.wikipedia.org/wiki/August_Kekulé)
 - [poetry in the olympics](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)
 - [thomas austin](https://www.nma.gov.au/defining-moments/resources/rabbits-introduced)
@@ -43,10 +35,11 @@
 - [a wheatfield in the heart of manhattan, 1982](https://rarehistoricalphotos.com/wheatfield-manhattan-1982/)
 - [I promise this story about fonts is interesting](https://www.youtube.com/watch?v=WVfRxFwVHQc)
 - [i will fucking dropkick you if you use that spreadsheet](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
+
 ### medium
+
 - [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
 - [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
-- [demon core](https://en.wikipedia.org/wiki/Demon_core)
 - [epstein's black book](https://epsteinsblackbook.com/)
 - [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 - [lead-crime hypothesis](https://en.wikipedia.org/wiki/Lead%E2%80%93crime_hypothesis)
@@ -59,12 +52,14 @@
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
 - [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
-- [hustler's university](https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/)
+- [hustler's university](<https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/>)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
 - [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
 - [brother andré's heart](https://www.flickr.com/photos/spinfly/4151836591)
 - [palmarian catholic church](https://en.wikipedia.org/wiki/Palmarian_Catholic_Church)
+
 ### hard
+
 - [félicien kabuga](https://en.wikipedia.org/wiki/F%C3%A9licien_Kabuga)
 - [byford dolphin diving bell accident](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident)
 - [twin flames universe](https://en.wikipedia.org/wiki/Twin_Flames_Universe)
