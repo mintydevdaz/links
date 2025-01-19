@@ -1,21 +1,14 @@
 ## links
 
-### easy
+### misc
 
-- [worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
 - [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
-- [pingala](https://en.wikipedia.org/wiki/Pingala)
-- [IMG_0001](https://walzr.com/IMG_0001)
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
 - [tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
 - [tamil bell](https://en.wikipedia.org/wiki/Tamil_bell)
 - [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)
 - [koro](<https://en.wikipedia.org/wiki/Koro_(disease)>)
-- [google graveyard](https://killedbygoogle.com/)
-- [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
-- [three virtues](https://thethreevirtues.com/)
-- [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
 - [vigorish](https://en.wikipedia.org/wiki/Vigorish)
 - [independence day](https://www.youtube.com/watch?v=phKNKP2c2Xw)
@@ -27,44 +20,43 @@
 - [gobleki tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
 - [satanic panic](https://www.vox.com/culture/22358153/satanic-panic-ritual-abuse-history-conspiracy-theories-explained)
 - [church of satan vs satanic temple](https://thesatanictemple.com/pages/church-of-satan-vs-satanic-temple)
-- [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
-- [human petting zoo](https://links.net/)
 - [vatican + centurion global fund](https://www.catholicnewsagency.com/news/43150/the-vatican-centurion-global-financial-scandal-a-cna-explainer)
 - [why this movie has been playing for 24 years](https://www.youtube.com/watch?v=mC_PK6zW_Bs)
 - [a wheatfield in the heart of manhattan, 1982](https://rarehistoricalphotos.com/wheatfield-manhattan-1982/)
 - [I promise this story about fonts is interesting](https://www.youtube.com/watch?v=WVfRxFwVHQc)
-- [i will fucking dropkick you if you use that spreadsheet](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
-
-### medium
-
-- [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 - [rebeccapurple](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 - [edward bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
-- [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
 - [hustler's university](<https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/>)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
 - [harold von braunhut](https://en.wikipedia.org/wiki/Harold_von_Braunhut)
 - [brother andré's heart](https://www.flickr.com/photos/spinfly/4151836591)
 - [palmarian catholic church](https://en.wikipedia.org/wiki/Palmarian_Catholic_Church)
-
-### hard
-
 - [byford dolphin diving bell accident](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident)
 - [the enigma of amigara fault](https://www.youtube.com/watch?v=j3vQeYIzh80)
 - [nutty putty cave](https://en.wikipedia.org/wiki/Nutty_Putty_Cave)
 
+### silicon
+
+- [worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
+- [IMG_0001](https://walzr.com/IMG_0001)
+- [pingala](https://en.wikipedia.org/wiki/Pingala)
+- [google graveyard](https://killedbygoogle.com/)
+- [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
+- [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
+- [three virtues](https://thethreevirtues.com/)
+- [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
+- [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
+- [human petting zoo](https://links.net/)
+- [i will fucking dropkick you if you use that spreadsheet](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
+
 ### crime
 
-- [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
-- [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
 - [epstein's black book](https://epsteinsblackbook.com/)
-- [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
 - [ed warren](https://www.vox.com/culture/23939024/ed-lorraine-warren-cases-hoax-real-conjuring-amityville)
 - [the 48 hours leading up to an execution](https://www.webworm.co/p/marcellus)
-- [twin flames universe](https://en.wikipedia.org/wiki/Twin_Flames_Universe)
 - [félicien kabuga](https://en.wikipedia.org/wiki/F%C3%A9licien_Kabuga)
 - [robert pickton meat supply](https://www.theglobeandmail.com/news/national/alert-issued-about-meat-from-picktons-pig-farm/article1129163/)
 - [watts family murders](https://en.wikipedia.org/wiki/Watts_family_murders)
@@ -74,8 +66,16 @@
 - [paul holes](https://en.wikipedia.org/wiki/Paul_Holes)
 - [murder of travis alexander](https://en.wikipedia.org/wiki/Murder_of_Travis_Alexander)
 - [dorde martinovic incident](https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Martinovi%C4%87_incident)
-- [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
-- [warren jeffs](https://en.wikipedia.org/wiki/Warren_Jeffs)
 - [armin meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
-- [shoko asahara](https://en.wikipedia.org/wiki/Shoko_Asahara)
 - [donner party](https://www.britannica.com/topic/Donner-party)
+
+### cults
+
+- [warren jeffs](https://en.wikipedia.org/wiki/Warren_Jeffs)
+- [shoko asahara](https://en.wikipedia.org/wiki/Shoko_Asahara)
+- [twin flames universe](https://en.wikipedia.org/wiki/Twin_Flames_Universe)
+- [jan broberg](https://en.wikipedia.org/wiki/Jan_Broberg)
+- [babalon working](https://en.wikipedia.org/wiki/Babalon#Babalon_Working)
+- [vallow-daybell doomsday murders](https://en.wikipedia.org/wiki/Vallow%E2%80%93Daybell_doomsday_murders)
+- [apollo moon landing, 20.jul.1969](https://www.history.com/news/apollo-11-moon-landing-timeline)
+- [murder of sharon tate, 08.aug.1969](https://www.vox.com/2019/8/7/20695284/charles-manson-family-what-is-helter-skelter-explained)
