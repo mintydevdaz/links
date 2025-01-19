@@ -4,7 +4,6 @@
 
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
 - [tamil bell](https://en.wikipedia.org/wiki/Tamil_bell)
-- [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)
 - [koro](<https://en.wikipedia.org/wiki/Koro_(disease)>)
 - [waffle house index](https://en.wikipedia.org/wiki/Waffle_House_Index)
 - [te urewera](https://en.m.wikipedia.org/wiki/Te_Urewera)
