@@ -2,7 +2,6 @@
 
 ### misc
 
-- [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
 - [tamil bell](https://en.wikipedia.org/wiki/Tamil_bell)
 - [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)
