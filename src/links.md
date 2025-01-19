@@ -4,7 +4,6 @@
 
 - [carcinisation](https://en.wikipedia.org/wiki/Carcinisation)
 - [bat99-98](https://en.wikipedia.org/wiki/BAT99-98)
-- [tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
 - [tamil bell](https://en.wikipedia.org/wiki/Tamil_bell)
 - [atomic clock](https://en.wikipedia.org/wiki/Atomic_clock)
 - [koro](<https://en.wikipedia.org/wiki/Koro_(disease)>)
@@ -38,6 +37,7 @@
 - [google graveyard](https://killedbygoogle.com/)
 - [osborne effect](https://en.m.wikipedia.org/wiki/Osborne_effect)
 - [embrace, extend, extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
+- [tetris effect](https://en.m.wikipedia.org/wiki/Tetris_effect)
 - [three virtues](https://thethreevirtues.com/)
 - [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 - [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
