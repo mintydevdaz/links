@@ -67,8 +67,7 @@
 - [armin meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)
 - [donner party](https://www.britannica.com/topic/Donner-party)
 
-
-### cults
+### cults + faith
 
 - [warren jeffs](https://en.wikipedia.org/wiki/Warren_Jeffs)
 - [shoko asahara](https://en.wikipedia.org/wiki/Shoko_Asahara)
