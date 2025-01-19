@@ -20,7 +20,6 @@
 - [why this movie has been playing for 24 years](https://www.youtube.com/watch?v=mC_PK6zW_Bs)
 - [a wheatfield in the heart of manhattan, 1982](https://rarehistoricalphotos.com/wheatfield-manhattan-1982/)
 - [I promise this story about fonts is interesting](https://www.youtube.com/watch?v=WVfRxFwVHQc)
-- [rebeccapurple](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 - [edward bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)
@@ -43,6 +42,7 @@
 - [sodas are no longer free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 - [silicon valley's false prophet](https://www.wheresyoured.at/false-prophet/)
 - [human petting zoo](https://links.net/)
+- [rebeccapurple](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 - [i will fucking dropkick you if you use that spreadsheet](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
 
 ### crime
