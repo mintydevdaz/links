@@ -21,7 +21,7 @@
 - [utsuro-bune](https://en.wikipedia.org/wiki/Utsuro-bune)
 - [hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)
 - [fourth of july](https://www.youtube.com/watch?v=vq5NvJvr55Q)
-- [hustler's uni](<https://data.ddosecrets.com/Andrew%20Tate's%20The%20Real%20World%20(Hustler's%20University)/>)
+- [hustler's uni](https://is.gd/3zHVxN)
 - [anatoli bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
 - [byford dolphin diving bell accident](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident)
 - [the enigma of amigara fault](https://www.youtube.com/watch?v=j3vQeYIzh80)
